@@ -17,7 +17,6 @@ The Raspberry Pi OS is the default operating system for an RPI SBC.  It is based
 ## Steps
 
 1. Download the Raspberry Pi Imager from [Raspberry Pi OS](https://www.raspberrypi.com/software/) onto a computer that will prepare the mirco-SD card.
-
 1. Insert the micro-SD card.
 1. Run the Raspberry Pi Imager software.
 1. Choose the version of the OS:
