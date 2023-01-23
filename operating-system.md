@@ -1,5 +1,5 @@
 ---
-title: "Setup Raspbian Operating System"
+title: "Operating System"
 date: 2022-01-22T16:53:00-04:00
 tags: [Raspberry Pi, Operating System, apt-get update, apt-get upgrade]
 ---
