@@ -8,7 +8,7 @@ To work with a [Git](https://git-scm.com/) code repository, such as [GitHub](htt
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi Operating System (OS) setup]( {{< ref "how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/raspberry-pi/operating-system" >}})
 
 ## Steps
 

@@ -8,7 +8,7 @@ To host a web site on the Raspberry Pi (RPI), the system can be setup with the [
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi Operating System (OS) setup]( {{< ref "how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/raspberry-pi/operating-system" >}})
 
 ## Steps
 
