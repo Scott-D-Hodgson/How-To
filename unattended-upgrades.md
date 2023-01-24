@@ -8,7 +8,7 @@ To keep the Raspberry Pi (RPI) Operating System (OS) up-to-date, without perform
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi OS setup]( {{< ref "content/how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi OS setup]( {{< ref "how-to/raspberry-pi/operating-system" >}})
 
 ## Steps
 
