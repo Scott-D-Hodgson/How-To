@@ -3,7 +3,7 @@ title: "Unattended Upgrades"
 date: 2023-01-22T19:52:00-04:00
 tags: [Raspberry Pi, apt-get unattended-upgrades]
 ---
-To keep the Raspberry Pi (RPI) Operating System (OS) up-to-date, without performing the update/upgrade manual steps, the system can be configured to perform the upgrades itself.
+To keep the Raspberry Pi (RPI) Operating System (OS) up-to-date, without performing the update/upgrade manual steps, the system can be configured to perform the upgrades itself via [unattended upgrades](https://wiki.debian.org/UnattendedUpgrades).
 
 ## Prerequisites
 
