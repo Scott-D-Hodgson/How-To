@@ -1,5 +1,5 @@
 ---
-title: "Git"
+title: "Install"
 date: 2023-01-24T04:35:00-04:00
 tags: [Raspberry Pi, Git, apt-get install]
 ---
