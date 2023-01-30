@@ -13,7 +13,7 @@ To keep the Raspberry Pi (RPI) Operating System (OS) up-to-date, without perform
 ## Steps
 
 1. Login to the RPI.
-1. Setup *Unattended Upgrades*.
+1. Setup Unattended Upgrades.
 
    ```
    sudo apt-get install unattended-upgrades

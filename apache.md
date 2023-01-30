@@ -13,7 +13,7 @@ To host a web site on the Raspberry Pi (RPI), the system can be setup with the [
 ## Steps
 
 1. Login to the RPI.
-1. Setup *Apache web server*.
+1. Setup Apache web server.
 
    ```
    sudo apt-get install apache2
