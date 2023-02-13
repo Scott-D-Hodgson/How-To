@@ -12,7 +12,6 @@ To work with a [Git](https://git-scm.com/) code repository, such as [GitHub](htt
 
 ## Steps
 
-1. Login to the RPI.
 1. Add Git repository.
 
    > **_Note:_** This is only required for the more recent version of Git.  If the older version would be fine, skip to step 4.
