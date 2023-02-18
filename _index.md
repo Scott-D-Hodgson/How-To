@@ -1,6 +1,6 @@
 ---
-title: "Raspberry Pi"
-date: 2022-01-22T18:30:00-04:00
+title: "How To"
+date: 2023-02-18T18:00:00-04:00
 tags: []
 ---
-Resources related to the management, setup, configuration, and usage of the Raspberry Pi.
+This is a collection of guides that detail how to do various installations, setups, configurations.
