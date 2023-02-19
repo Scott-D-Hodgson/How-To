@@ -9,7 +9,7 @@ tags: [Apache, chown, chmod]
    sudo chown -R <username>:www-data /var/www
    ```
 
-   *Note: Replace `<username>` with the username of the account that will manage the files of the web server.  In Raspberry Pi Operating System (OS), this would be the `pi` user.
+   *Note: Replace `<username>` with the username of the account that will manage the files of the web server.  In Raspberry Pi Operating System (OS), this would be the `pi` user.*
 
 1. Set user and group permissions.
 
