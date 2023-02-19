@@ -1,7 +1,7 @@
 ---
 title: "Node"
 date: 2023-02-13T15:13:00-04:i00
-tags: [Raspberry Pi, Node]
+tags: [Node, nvm install, node]
 ---
 1. Install [Node](https://nodejs.org/en/about).
 
