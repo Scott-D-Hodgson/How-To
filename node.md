@@ -8,7 +8,7 @@ To run javascript out of a web browser, one of the tools called [Node](https://n
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/operating-system" >}})
 - [Node Version Management (NVM)]( {{< relref "how-to/node-version-manager" >}})
 
 ## Steps
