@@ -1,7 +1,7 @@
 ---
 title: "Prerequisites"
-date: 2023-02-18T17:31:00-04:00
-tags: [Apache, Ubuntu, Raspberry Pi OS]
+date: 2023-02-19T8:52:00-04:00
+tags: [Ubuntu, Raspberry Pi OS]
 ---
 The following prerequisites will be needed in order to get started.
 

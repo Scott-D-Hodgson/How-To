@@ -3,9 +3,7 @@ title: "Prerequisites"
 date: 2023-02-18T17:31:00-04:00
 tags: [Git, GitHub, Ubuntu, Raspberry Pi OS]
 ---
-To work with a [Git](https://git-scm.com/) code repository, such as [GitHub](https://github.com/), the [Git](https://git-scm.com/) client application is one of the main tools to fascilitate the code movement and commands required to manage the repository.
-
-In order to use [Git](https://git-scm.com/), the following prerequisites will be needed in order to get started.
+The following prerequisites will be needed in order to get started.
 
 1. [GitHub](https://github.com/) account.
 1. Personal computer, running a linux distribution, and supporting peripherals to permit personal usage of the computer.  Not all are required, only what is needed for your personal setup:
