@@ -8,7 +8,7 @@ To make the installation and management of Node simpler on the Raspberry Pi (RPI
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi Operating System (OS) setup]( {{< relref "how-to/operating-system" >}})
 
 ## Steps
 

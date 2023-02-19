@@ -8,7 +8,7 @@ To perform various protected operations with the Raspberry Pi (RPI), othen it is
 ## Prerequisites
 
 - RPI
-- [Raspberry Pi OS setup]( {{< relref "how-to/raspberry-pi/operating-system" >}})
+- [Raspberry Pi OS setup]( {{< relref "how-to/operating-system" >}})
 
 ## Command
 
